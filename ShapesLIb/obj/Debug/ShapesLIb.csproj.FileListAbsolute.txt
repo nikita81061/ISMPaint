@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\OOPDraw\ShapesLIb\bin\Debug\ShapesLIb.dll
+C:\Users\User\Desktop\OOPDraw\ShapesLIb\bin\Debug\ShapesLIb.pdb
+C:\Users\User\Desktop\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.dll
+C:\Users\User\Desktop\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.pdb
+d:\лабы\ISM\OOPDraw\ShapesLIb\bin\Debug\ShapesLIb.dll
+d:\лабы\ISM\OOPDraw\ShapesLIb\bin\Debug\ShapesLIb.pdb
+d:\лабы\ISM\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.csprojAssemblyReference.cache
+d:\лабы\ISM\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.csproj.CoreCompileInputs.cache
+d:\лабы\ISM\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.dll
+d:\лабы\ISM\OOPDraw\ShapesLIb\obj\Debug\ShapesLIb.pdb
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ShapesLIb\bin\Debug\ShapesLIb.dll
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ShapesLIb\bin\Debug\ShapesLIb.pdb
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ShapesLIb\obj\Debug\ShapesLIb.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ShapesLIb\obj\Debug\ShapesLIb.dll
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ShapesLIb\obj\Debug\ShapesLIb.pdb

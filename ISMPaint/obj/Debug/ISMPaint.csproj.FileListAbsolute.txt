@@ -1,0 +1,12 @@
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\bin\Debug\ISMPaint.exe.config
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\bin\Debug\ISMPaint.exe
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\bin\Debug\ISMPaint.pdb
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\bin\Debug\ShapesLIb.dll
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\bin\Debug\ShapesLIb.pdb
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.Form1.resources
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.Properties.Resources.resources
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csproj.CopyComplete
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.exe
+C:\Users\Nikita\Desktop\ISM1\ISMPaint\ISMPaint\obj\Debug\ISMPaint.pdb
